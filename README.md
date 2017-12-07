@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Table of Contents
 
@@ -47,3 +48,6 @@ Examples from okta-spring-security:
 https://github.com/okta/okta-spring-boot
 
 
+=======
+# okta-spring-boot-api
+>>>>>>> 55ce585557647674b9b613a878e0cc08d5677807
