@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -27,7 +26,6 @@ nbdist/
 # archive
 /archive
 
-=======
 # Compiled class file
 *.class
 
@@ -48,6 +46,3 @@ nbdist/
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
->>>>>>> 55ce585557647674b9b613a878e0cc08d5677807
