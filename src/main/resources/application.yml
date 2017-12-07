@@ -1,0 +1,6 @@
+okta:
+  oauth2:
+    # Okta configuration
+    clientId: <your-app-client-id>
+    issuer: https://your-org.oktapreview.com/oauth2/your-auth-server-id
+    audience: https://your-app.your-org.com
